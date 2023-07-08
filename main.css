@@ -43,3 +43,7 @@ li{
     color: var(--btnFontColor);
     background-color: var(--btnBg);
 }
+.fcopy{
+    color:red;
+    text-align: center;
+}
