@@ -8,17 +8,11 @@ body{
     color: var(--fontColor);
     font-family: helvetica;
 }
-ul{
-   
-}
 li{
     list-style: circle;
 }
 .list{
     list-style: squre;
-}
-#msg{
-    
 }
 .light-theme{
   --bg: var(--green);
@@ -46,4 +40,4 @@ li{
 .fcopy{
     color:red;
     text-align: center;
-}
+    }
